@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="start_here" size="0.500000 0.388591" />
+    <ImageTarget name="screen-01" size="0.500000 0.315278" />
+    <ImageTarget name="check_in_counters" size="0.500000 0.334992" />
+    <ImageTarget name="food_sign" size="0.500000 0.215827" />
+    <ImageTarget name="restricted_items" size="0.500000 0.203091" />
+    <ImageTarget name="suitcase" size="0.500000 0.585253" />
+    <ImageTarget name="checkpoint" size="0.500000 0.324653" />
+    <ImageTarget name="arrow_popup_trigger" size="0.500000 0.107906" />
     <ImageTarget name="airport_gate_simple" size="0.500000 0.500000" />
   </Tracking>
 </QCARConfig>
